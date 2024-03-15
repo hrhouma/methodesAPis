@@ -6,13 +6,13 @@ fetch('https://restcountries.com/v3.1/name/ca')
 
 Appels API (fetch ou axios): 
 
-1 - Le navigateur 
-2 - POSTMAN
-3 - curl
-4 - Swagger
-5 - Ajout de plugins dans VSCODE REST CLIENT
-6 - Javascript sur le navigateur 
-7 - Application cliente avec un fichier js 
+#1 - Le navigateur 
+#2 - POSTMAN
+#3 - curl
+#4 - Swagger
+#5 - Ajout de plugins dans VSCODE REST CLIENT
+#6 - Javascript sur le navigateur 
+#7 - Application cliente avec un fichier js 
 
 
 Détails : 
