@@ -30,3 +30,16 @@ Détails :
 Dans notre application drapeau, nous avons utilisé deux apples API 
 # 1 - Composant Recherche : https://restcountries.com/v3.1/name/{name}
 # 2 - Composant pays : https://restcountries.com/v3.1/alpha/{code}
+
+# Exemple Curl sur Windows
+
+
+mvn spring-boot:run
+
+curl -X POST http://localhost:8080/clients -H "Content-Type:application/json" -d "{\"name\": \"Haythem REHOUMA\", \"email\": \"hrehouma@baeldung.com\"}"
+{"id":3,"name":"Haythem REHOUMA","email":"hrehouma@baeldung.com"}
+
+
+http://localhost:8080/clients
+
+https://www.baeldung.com/spring-boot-react-crud
